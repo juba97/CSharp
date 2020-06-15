@@ -1,0 +1,12 @@
+/Users/jubakoguashvili/Desktop/Exp/bin/Debug/netcoreapp3.1/Exp.deps.json
+/Users/jubakoguashvili/Desktop/Exp/bin/Debug/netcoreapp3.1/Exp.runtimeconfig.json
+/Users/jubakoguashvili/Desktop/Exp/bin/Debug/netcoreapp3.1/Exp.runtimeconfig.dev.json
+/Users/jubakoguashvili/Desktop/Exp/bin/Debug/netcoreapp3.1/Exp.dll
+/Users/jubakoguashvili/Desktop/Exp/bin/Debug/netcoreapp3.1/Exp.pdb
+/Users/jubakoguashvili/Desktop/Exp/obj/Debug/netcoreapp3.1/Exp.csprojAssemblyReference.cache
+/Users/jubakoguashvili/Desktop/Exp/obj/Debug/netcoreapp3.1/Exp.csproj.CoreCompileInputs.cache
+/Users/jubakoguashvili/Desktop/Exp/obj/Debug/netcoreapp3.1/Exp.AssemblyInfoInputs.cache
+/Users/jubakoguashvili/Desktop/Exp/obj/Debug/netcoreapp3.1/Exp.AssemblyInfo.cs
+/Users/jubakoguashvili/Desktop/Exp/obj/Debug/netcoreapp3.1/Exp.dll
+/Users/jubakoguashvili/Desktop/Exp/obj/Debug/netcoreapp3.1/Exp.pdb
+/Users/jubakoguashvili/Desktop/Exp/obj/Debug/netcoreapp3.1/Exp.genruntimeconfig.cache
