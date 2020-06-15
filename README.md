@@ -51,7 +51,7 @@ $ git status
 
 FifthCommand:
 ```sh
-$ git commit -m "EDIT README"
+$ git commit -m "Edit Readme"
 ```
 SixthCommand:
 ```sh
