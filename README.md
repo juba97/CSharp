@@ -7,7 +7,7 @@ FirstCommand:
 $ git add .
 ```
 
-SecondCommand :
+SecondCommand:
 ```sh
 $ gitt commit -m "First Commit"
 ```
