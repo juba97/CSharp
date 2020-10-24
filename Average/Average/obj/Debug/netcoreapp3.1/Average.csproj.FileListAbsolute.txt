@@ -1,0 +1,13 @@
+C:\Users\Juba\Desktop\Average\Average\bin\Debug\netcoreapp3.1\Average.exe
+C:\Users\Juba\Desktop\Average\Average\bin\Debug\netcoreapp3.1\Average.deps.json
+C:\Users\Juba\Desktop\Average\Average\bin\Debug\netcoreapp3.1\Average.runtimeconfig.json
+C:\Users\Juba\Desktop\Average\Average\bin\Debug\netcoreapp3.1\Average.runtimeconfig.dev.json
+C:\Users\Juba\Desktop\Average\Average\bin\Debug\netcoreapp3.1\Average.dll
+C:\Users\Juba\Desktop\Average\Average\bin\Debug\netcoreapp3.1\Average.pdb
+C:\Users\Juba\Desktop\Average\Average\obj\Debug\netcoreapp3.1\Average.AssemblyInfoInputs.cache
+C:\Users\Juba\Desktop\Average\Average\obj\Debug\netcoreapp3.1\Average.AssemblyInfo.cs
+C:\Users\Juba\Desktop\Average\Average\obj\Debug\netcoreapp3.1\Average.csproj.CoreCompileInputs.cache
+C:\Users\Juba\Desktop\Average\Average\obj\Debug\netcoreapp3.1\Average.dll
+C:\Users\Juba\Desktop\Average\Average\obj\Debug\netcoreapp3.1\Average.pdb
+C:\Users\Juba\Desktop\Average\Average\obj\Debug\netcoreapp3.1\Average.genruntimeconfig.cache
+C:\Users\Juba\Desktop\Average\Average\obj\Debug\netcoreapp3.1\Average.csprojAssemblyReference.cache
