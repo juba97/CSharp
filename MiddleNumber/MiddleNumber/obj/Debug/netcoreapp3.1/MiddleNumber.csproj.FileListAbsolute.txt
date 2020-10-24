@@ -1,0 +1,12 @@
+C:\Users\Juba\Desktop\MiddleNumber\MiddleNumber\bin\Debug\netcoreapp3.1\MiddleNumber.exe
+C:\Users\Juba\Desktop\MiddleNumber\MiddleNumber\bin\Debug\netcoreapp3.1\MiddleNumber.deps.json
+C:\Users\Juba\Desktop\MiddleNumber\MiddleNumber\bin\Debug\netcoreapp3.1\MiddleNumber.runtimeconfig.json
+C:\Users\Juba\Desktop\MiddleNumber\MiddleNumber\bin\Debug\netcoreapp3.1\MiddleNumber.runtimeconfig.dev.json
+C:\Users\Juba\Desktop\MiddleNumber\MiddleNumber\bin\Debug\netcoreapp3.1\MiddleNumber.dll
+C:\Users\Juba\Desktop\MiddleNumber\MiddleNumber\bin\Debug\netcoreapp3.1\MiddleNumber.pdb
+C:\Users\Juba\Desktop\MiddleNumber\MiddleNumber\obj\Debug\netcoreapp3.1\MiddleNumber.AssemblyInfoInputs.cache
+C:\Users\Juba\Desktop\MiddleNumber\MiddleNumber\obj\Debug\netcoreapp3.1\MiddleNumber.AssemblyInfo.cs
+C:\Users\Juba\Desktop\MiddleNumber\MiddleNumber\obj\Debug\netcoreapp3.1\MiddleNumber.csproj.CoreCompileInputs.cache
+C:\Users\Juba\Desktop\MiddleNumber\MiddleNumber\obj\Debug\netcoreapp3.1\MiddleNumber.dll
+C:\Users\Juba\Desktop\MiddleNumber\MiddleNumber\obj\Debug\netcoreapp3.1\MiddleNumber.pdb
+C:\Users\Juba\Desktop\MiddleNumber\MiddleNumber\obj\Debug\netcoreapp3.1\MiddleNumber.genruntimeconfig.cache
