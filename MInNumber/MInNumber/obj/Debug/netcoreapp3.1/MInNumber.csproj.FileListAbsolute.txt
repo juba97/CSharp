@@ -1,0 +1,13 @@
+C:\Users\Juba\Desktop\MInNumber\MInNumber\bin\Debug\netcoreapp3.1\MInNumber.exe
+C:\Users\Juba\Desktop\MInNumber\MInNumber\bin\Debug\netcoreapp3.1\MInNumber.deps.json
+C:\Users\Juba\Desktop\MInNumber\MInNumber\bin\Debug\netcoreapp3.1\MInNumber.runtimeconfig.json
+C:\Users\Juba\Desktop\MInNumber\MInNumber\bin\Debug\netcoreapp3.1\MInNumber.runtimeconfig.dev.json
+C:\Users\Juba\Desktop\MInNumber\MInNumber\bin\Debug\netcoreapp3.1\MInNumber.dll
+C:\Users\Juba\Desktop\MInNumber\MInNumber\bin\Debug\netcoreapp3.1\MInNumber.pdb
+C:\Users\Juba\Desktop\MInNumber\MInNumber\obj\Debug\netcoreapp3.1\MInNumber.csprojAssemblyReference.cache
+C:\Users\Juba\Desktop\MInNumber\MInNumber\obj\Debug\netcoreapp3.1\MInNumber.AssemblyInfoInputs.cache
+C:\Users\Juba\Desktop\MInNumber\MInNumber\obj\Debug\netcoreapp3.1\MInNumber.AssemblyInfo.cs
+C:\Users\Juba\Desktop\MInNumber\MInNumber\obj\Debug\netcoreapp3.1\MInNumber.csproj.CoreCompileInputs.cache
+C:\Users\Juba\Desktop\MInNumber\MInNumber\obj\Debug\netcoreapp3.1\MInNumber.dll
+C:\Users\Juba\Desktop\MInNumber\MInNumber\obj\Debug\netcoreapp3.1\MInNumber.pdb
+C:\Users\Juba\Desktop\MInNumber\MInNumber\obj\Debug\netcoreapp3.1\MInNumber.genruntimeconfig.cache
