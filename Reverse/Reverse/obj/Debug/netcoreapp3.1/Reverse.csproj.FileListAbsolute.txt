@@ -1,0 +1,13 @@
+C:\Users\Juba\Desktop\Reverse\Reverse\bin\Debug\netcoreapp3.1\Reverse.exe
+C:\Users\Juba\Desktop\Reverse\Reverse\bin\Debug\netcoreapp3.1\Reverse.deps.json
+C:\Users\Juba\Desktop\Reverse\Reverse\bin\Debug\netcoreapp3.1\Reverse.runtimeconfig.json
+C:\Users\Juba\Desktop\Reverse\Reverse\bin\Debug\netcoreapp3.1\Reverse.runtimeconfig.dev.json
+C:\Users\Juba\Desktop\Reverse\Reverse\bin\Debug\netcoreapp3.1\Reverse.dll
+C:\Users\Juba\Desktop\Reverse\Reverse\bin\Debug\netcoreapp3.1\Reverse.pdb
+C:\Users\Juba\Desktop\Reverse\Reverse\obj\Debug\netcoreapp3.1\Reverse.csprojAssemblyReference.cache
+C:\Users\Juba\Desktop\Reverse\Reverse\obj\Debug\netcoreapp3.1\Reverse.AssemblyInfoInputs.cache
+C:\Users\Juba\Desktop\Reverse\Reverse\obj\Debug\netcoreapp3.1\Reverse.AssemblyInfo.cs
+C:\Users\Juba\Desktop\Reverse\Reverse\obj\Debug\netcoreapp3.1\Reverse.csproj.CoreCompileInputs.cache
+C:\Users\Juba\Desktop\Reverse\Reverse\obj\Debug\netcoreapp3.1\Reverse.dll
+C:\Users\Juba\Desktop\Reverse\Reverse\obj\Debug\netcoreapp3.1\Reverse.pdb
+C:\Users\Juba\Desktop\Reverse\Reverse\obj\Debug\netcoreapp3.1\Reverse.genruntimeconfig.cache
