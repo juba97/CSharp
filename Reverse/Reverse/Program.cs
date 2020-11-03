@@ -1,31 +1,29 @@
 ﻿using System;
-using System.Runtime.CompilerServices;
 
-namespace Reverse
+namespace ConsoleApp2
 {
     class Program
     {
         static void Main(string[] args)
         {
-
+            int[] numbers =
             {
-                char symbol = 'y';
-                do
-                {                              
+                1,
+                2,
+                3,
+                4,
+                5,
+            };
 
-                long number, reverse = 0;
-                Console.Write("Enter Number : ");
-                number = long.Parse(Console.ReadLine());
-                while (number != 0)
-                {
-                    reverse *= 10;
-                    reverse += (number % 10);
-                    number = number / 10;
-                }
-                Console.WriteLine($"Reverse Number is : {reverse}");
-                Console.WriteLine("if you want repeat enter 'y' ");
-                symbol = char.Parse(Console.ReadLine());
-                } while (symbol == 'y');
+            int[] reverse = new int[numbers.Length];
+            int j = numbers.Length - 1;
+
+            for (int i = 0; i < numbers.Length; i++)
+            {
+
+                reverse[i] = numbers[j];
+                j--;
+                Console.WriteLine(reverse[i]);
             }
         }
     }
