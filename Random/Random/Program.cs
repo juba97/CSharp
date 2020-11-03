@@ -1,6 +1,4 @@
 ﻿using System;
-
-
 namespace G06_20201020
 {
     class Program
