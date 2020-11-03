@@ -1,0 +1,13 @@
+C:\Users\Juba\Desktop\NumberChange\NumberChange\bin\Debug\netcoreapp3.1\NumberChange.exe
+C:\Users\Juba\Desktop\NumberChange\NumberChange\bin\Debug\netcoreapp3.1\NumberChange.deps.json
+C:\Users\Juba\Desktop\NumberChange\NumberChange\bin\Debug\netcoreapp3.1\NumberChange.runtimeconfig.json
+C:\Users\Juba\Desktop\NumberChange\NumberChange\bin\Debug\netcoreapp3.1\NumberChange.runtimeconfig.dev.json
+C:\Users\Juba\Desktop\NumberChange\NumberChange\bin\Debug\netcoreapp3.1\NumberChange.dll
+C:\Users\Juba\Desktop\NumberChange\NumberChange\bin\Debug\netcoreapp3.1\NumberChange.pdb
+C:\Users\Juba\Desktop\NumberChange\NumberChange\obj\Debug\netcoreapp3.1\NumberChange.csprojAssemblyReference.cache
+C:\Users\Juba\Desktop\NumberChange\NumberChange\obj\Debug\netcoreapp3.1\NumberChange.AssemblyInfoInputs.cache
+C:\Users\Juba\Desktop\NumberChange\NumberChange\obj\Debug\netcoreapp3.1\NumberChange.AssemblyInfo.cs
+C:\Users\Juba\Desktop\NumberChange\NumberChange\obj\Debug\netcoreapp3.1\NumberChange.csproj.CoreCompileInputs.cache
+C:\Users\Juba\Desktop\NumberChange\NumberChange\obj\Debug\netcoreapp3.1\NumberChange.dll
+C:\Users\Juba\Desktop\NumberChange\NumberChange\obj\Debug\netcoreapp3.1\NumberChange.pdb
+C:\Users\Juba\Desktop\NumberChange\NumberChange\obj\Debug\netcoreapp3.1\NumberChange.genruntimeconfig.cache
