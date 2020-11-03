@@ -14,13 +14,12 @@ namespace ConsoleApp69
             x = y;
             y = z;
 
-            //es erti varianti amoxsnis !
+            
             //x = x + y;
             //y = x - y;
             //x = x - y;
 
 
-            //es meore varianti amoxsnis !
             x = x * y;
             y = x / y;
             x = x / y;
