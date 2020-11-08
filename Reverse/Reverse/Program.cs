@@ -1,30 +1,25 @@
 ﻿using System;
 
-namespace ConsoleApp2
+namespace ConsoleApp1
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
-            int[] numbers =
-            {
-                1,
-                2,
-                3,
-                4,
-                5,
-            };
-
-            int[] reverse = new int[numbers.Length];
-            int j = numbers.Length - 1;
-
-            for (int i = 0; i < numbers.Length; i++)
-            {
-
-                reverse[i] = numbers[j];
-                j--;
-                Console.WriteLine(reverse[i]);
-            }
+            int Num = 341759;
+            Console.WriteLine($"Reverse number is - {reverse(Num)}");
         }
+
+        public static int reverse(int reverse)
+        {
+            int Reverse = 0;
+            while (reverse > 0)
+            {
+                Reverse = (Reverse * 10) + reverse % 10;
+                reverse /= 10;
+            }
+            return Reverse;
+        }
+
     }
 }
