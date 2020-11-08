@@ -1,0 +1,13 @@
+C:\Users\Juba\Desktop\Function\Function\bin\Debug\netcoreapp3.1\Function.exe
+C:\Users\Juba\Desktop\Function\Function\bin\Debug\netcoreapp3.1\Function.deps.json
+C:\Users\Juba\Desktop\Function\Function\bin\Debug\netcoreapp3.1\Function.runtimeconfig.json
+C:\Users\Juba\Desktop\Function\Function\bin\Debug\netcoreapp3.1\Function.runtimeconfig.dev.json
+C:\Users\Juba\Desktop\Function\Function\bin\Debug\netcoreapp3.1\Function.dll
+C:\Users\Juba\Desktop\Function\Function\bin\Debug\netcoreapp3.1\Function.pdb
+C:\Users\Juba\Desktop\Function\Function\obj\Debug\netcoreapp3.1\Function.csprojAssemblyReference.cache
+C:\Users\Juba\Desktop\Function\Function\obj\Debug\netcoreapp3.1\Function.AssemblyInfoInputs.cache
+C:\Users\Juba\Desktop\Function\Function\obj\Debug\netcoreapp3.1\Function.AssemblyInfo.cs
+C:\Users\Juba\Desktop\Function\Function\obj\Debug\netcoreapp3.1\Function.csproj.CoreCompileInputs.cache
+C:\Users\Juba\Desktop\Function\Function\obj\Debug\netcoreapp3.1\Function.dll
+C:\Users\Juba\Desktop\Function\Function\obj\Debug\netcoreapp3.1\Function.pdb
+C:\Users\Juba\Desktop\Function\Function\obj\Debug\netcoreapp3.1\Function.genruntimeconfig.cache
