@@ -4,7 +4,7 @@ namespace ConsoleApp1
 {
     class Program
     {
-        public static void Main()
+        static void Main()
         {
             int Num = 341759;
             Console.WriteLine($"Reverse number is - {reverse(Num)}");
