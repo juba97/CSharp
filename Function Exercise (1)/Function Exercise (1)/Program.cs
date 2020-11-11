@@ -10,7 +10,7 @@ namespace ConsoleApp117
             int[] x = { 3, 4, 5, 6, 7 };
             PrintSum(x);
             int[] i = { 3, 4, 5, 6, 7 };
-            int y = PrintAvg(i);
+            int y = Average(i);
             Console.WriteLine($"Avg is - {y}");
             int[] j = { 3, 4, 5, 6, 7 };
             int b = MaxNumber(j);
@@ -32,15 +32,15 @@ namespace ConsoleApp117
 
         }
 
-        static int PrintAvg(int[] array)
+        static int Average(int[] array)
         {
-            int avg = 0, save = 0;
+            int avg = 0, sum = 0;
             for (int i = 0; i < array.Length; i++)
             {
-                save += array[i];
+                sum += array[i];
 
             }
-            avg = save / array.Length;
+            avg = sum / array.Length;
             return avg;
         }
 
