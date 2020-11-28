@@ -1,14 +1,15 @@
-﻿using System;
+using System;
 
 namespace Queen_sGambit
 {
-    class Program
-    {
+	class Program
+	{
 		public static void Main(string[] args)
 		{
 			Move(0);
 
 		}
+		// TODO [print - bechdavs x masivs, pasuxi inaxeba 8 elementian masivsshi]
 		static int[] x = new int[8];
 		static void Print()
 		{
@@ -18,10 +19,13 @@ namespace Queen_sGambit
 			}
 			Console.Write("\n");
 		}
+		// ? [Free- amowmebs aris tuara konkretuli ujra dartymis kvesh akamde dadebuli lazierebisagan]
 		static int Free(int xx, int yy)
 		{
 			for (int i = 0; i < yy; i++)
 			{
+				// ! [1. erti da igive striqonshi hoardevs 2 lazieri]
+				// ! [2. diagonalze aris tuara ori lazieri]
 				if ((x[i] == xx) || (Math.Abs(x[i] - xx) == Math.Abs(i - yy)))
 				{
 					return 0;
@@ -29,6 +33,7 @@ namespace Queen_sGambit
 			}
 			return 1;
 		}
+		// [Rekursiuli function Move]
 		static void Move(int n)
 		{
 			if (n == 8)
