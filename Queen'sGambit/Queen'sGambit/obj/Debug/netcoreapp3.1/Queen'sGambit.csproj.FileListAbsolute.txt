@@ -1,0 +1,13 @@
+C:\Users\Juba\Desktop\Queen'sGambit\Queen'sGambit\bin\Debug\netcoreapp3.1\Queen'sGambit.exe
+C:\Users\Juba\Desktop\Queen'sGambit\Queen'sGambit\bin\Debug\netcoreapp3.1\Queen'sGambit.deps.json
+C:\Users\Juba\Desktop\Queen'sGambit\Queen'sGambit\bin\Debug\netcoreapp3.1\Queen'sGambit.runtimeconfig.json
+C:\Users\Juba\Desktop\Queen'sGambit\Queen'sGambit\bin\Debug\netcoreapp3.1\Queen'sGambit.runtimeconfig.dev.json
+C:\Users\Juba\Desktop\Queen'sGambit\Queen'sGambit\bin\Debug\netcoreapp3.1\Queen'sGambit.dll
+C:\Users\Juba\Desktop\Queen'sGambit\Queen'sGambit\bin\Debug\netcoreapp3.1\Queen'sGambit.pdb
+C:\Users\Juba\Desktop\Queen'sGambit\Queen'sGambit\obj\Debug\netcoreapp3.1\Queen'sGambit.csprojAssemblyReference.cache
+C:\Users\Juba\Desktop\Queen'sGambit\Queen'sGambit\obj\Debug\netcoreapp3.1\Queen'sGambit.AssemblyInfoInputs.cache
+C:\Users\Juba\Desktop\Queen'sGambit\Queen'sGambit\obj\Debug\netcoreapp3.1\Queen'sGambit.AssemblyInfo.cs
+C:\Users\Juba\Desktop\Queen'sGambit\Queen'sGambit\obj\Debug\netcoreapp3.1\Queen'sGambit.csproj.CoreCompileInputs.cache
+C:\Users\Juba\Desktop\Queen'sGambit\Queen'sGambit\obj\Debug\netcoreapp3.1\Queen'sGambit.dll
+C:\Users\Juba\Desktop\Queen'sGambit\Queen'sGambit\obj\Debug\netcoreapp3.1\Queen'sGambit.pdb
+C:\Users\Juba\Desktop\Queen'sGambit\Queen'sGambit\obj\Debug\netcoreapp3.1\Queen'sGambit.genruntimeconfig.cache
