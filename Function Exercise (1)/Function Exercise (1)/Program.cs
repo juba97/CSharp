@@ -1,49 +1,43 @@
-﻿using System;
-
+using System;
 namespace ConsoleApp117
 {
     class Program
     {
-
         static void Main()
         {
             int[] x = { 3, 4, 5, 6, 7 };
-            PrintSum(x);
-            int[] i = { 3, 4, 5, 6, 7 };
-            int y = Average(i);
-            Console.WriteLine($"Avg is - {y}");
-            int[] j = { 3, 4, 5, 6, 7 };
-            int b = MaxNumber(j);
+            int xSum = GetSum(x);
+            double xAvg = GetAverage(x);
+            int b = MaxNumber(x);
+            int c = MinNumber(x);
+
+            Console.WriteLine($"Sum is - {xSum}");
+            Console.WriteLine($"Avg is - {xAvg}");
             Console.WriteLine($"MaxNumber is - {b}");
-            int[] a = { 3, 4, 5, 6, 7 };
-            int c = MinNumber(a);
             Console.WriteLine($"MinNumber is - {c}");
         }
-
-        static void PrintSum(int[] array)
+        static int GetSum(int[] array)
         {
+            if (array == null)
+            {
+                return 0;
+
+            }
             int sum = 0;
+
             for (int i = 0; i < array.Length; i++)
             {
                 sum += array[i];
 
             }
-            Console.WriteLine($"Sum is - {sum} ");
-
+            return sum;
         }
-
-        static int Average(int[] array)
+        static double GetAverage(int[] array)
         {
-            int avg = 0, sum = 0;
-            for (int i = 0; i < array.Length; i++)
-            {
-                sum += array[i];
-
-            }
-            avg = sum / array.Length;
+            int sum = GetSum(array);
+            double avg = (double)sum / array.Length;
             return avg;
         }
-
         static int MaxNumber(int[] array)
         {
             int maxnumber = array[0];
@@ -56,7 +50,6 @@ namespace ConsoleApp117
             }
             return maxnumber;
         }
-
         static int MinNumber(int[] array)
         {
             int minnumber = array[0];
@@ -67,8 +60,8 @@ namespace ConsoleApp117
                     minnumber = array[i];
                 }
             }
+
             return minnumber;
         }
     }
-
 }
