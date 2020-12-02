@@ -1,0 +1,13 @@
+C:\Users\Juba\Desktop\Directories\Directories\bin\Debug\netcoreapp3.1\Directories.exe
+C:\Users\Juba\Desktop\Directories\Directories\bin\Debug\netcoreapp3.1\Directories.deps.json
+C:\Users\Juba\Desktop\Directories\Directories\bin\Debug\netcoreapp3.1\Directories.runtimeconfig.json
+C:\Users\Juba\Desktop\Directories\Directories\bin\Debug\netcoreapp3.1\Directories.runtimeconfig.dev.json
+C:\Users\Juba\Desktop\Directories\Directories\bin\Debug\netcoreapp3.1\Directories.dll
+C:\Users\Juba\Desktop\Directories\Directories\bin\Debug\netcoreapp3.1\Directories.pdb
+C:\Users\Juba\Desktop\Directories\Directories\obj\Debug\netcoreapp3.1\Directories.csprojAssemblyReference.cache
+C:\Users\Juba\Desktop\Directories\Directories\obj\Debug\netcoreapp3.1\Directories.AssemblyInfoInputs.cache
+C:\Users\Juba\Desktop\Directories\Directories\obj\Debug\netcoreapp3.1\Directories.AssemblyInfo.cs
+C:\Users\Juba\Desktop\Directories\Directories\obj\Debug\netcoreapp3.1\Directories.csproj.CoreCompileInputs.cache
+C:\Users\Juba\Desktop\Directories\Directories\obj\Debug\netcoreapp3.1\Directories.dll
+C:\Users\Juba\Desktop\Directories\Directories\obj\Debug\netcoreapp3.1\Directories.pdb
+C:\Users\Juba\Desktop\Directories\Directories\obj\Debug\netcoreapp3.1\Directories.genruntimeconfig.cache
