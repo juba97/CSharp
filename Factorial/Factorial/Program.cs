@@ -1,5 +1,5 @@
 ﻿using System;
-namespace LogicalPrograms
+namespace Factorial
 {
     class Program
     {
