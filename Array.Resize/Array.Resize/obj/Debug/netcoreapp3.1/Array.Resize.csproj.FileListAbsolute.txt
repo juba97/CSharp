@@ -1,0 +1,13 @@
+C:\Users\Juba\Desktop\Array.Resize\Array.Resize\bin\Debug\netcoreapp3.1\Array.Resize.exe
+C:\Users\Juba\Desktop\Array.Resize\Array.Resize\bin\Debug\netcoreapp3.1\Array.Resize.deps.json
+C:\Users\Juba\Desktop\Array.Resize\Array.Resize\bin\Debug\netcoreapp3.1\Array.Resize.runtimeconfig.json
+C:\Users\Juba\Desktop\Array.Resize\Array.Resize\bin\Debug\netcoreapp3.1\Array.Resize.runtimeconfig.dev.json
+C:\Users\Juba\Desktop\Array.Resize\Array.Resize\bin\Debug\netcoreapp3.1\Array.Resize.dll
+C:\Users\Juba\Desktop\Array.Resize\Array.Resize\bin\Debug\netcoreapp3.1\Array.Resize.pdb
+C:\Users\Juba\Desktop\Array.Resize\Array.Resize\obj\Debug\netcoreapp3.1\Array.Resize.csprojAssemblyReference.cache
+C:\Users\Juba\Desktop\Array.Resize\Array.Resize\obj\Debug\netcoreapp3.1\Array.Resize.AssemblyInfoInputs.cache
+C:\Users\Juba\Desktop\Array.Resize\Array.Resize\obj\Debug\netcoreapp3.1\Array.Resize.AssemblyInfo.cs
+C:\Users\Juba\Desktop\Array.Resize\Array.Resize\obj\Debug\netcoreapp3.1\Array.Resize.csproj.CoreCompileInputs.cache
+C:\Users\Juba\Desktop\Array.Resize\Array.Resize\obj\Debug\netcoreapp3.1\Array.Resize.dll
+C:\Users\Juba\Desktop\Array.Resize\Array.Resize\obj\Debug\netcoreapp3.1\Array.Resize.pdb
+C:\Users\Juba\Desktop\Array.Resize\Array.Resize\obj\Debug\netcoreapp3.1\Array.Resize.genruntimeconfig.cache
