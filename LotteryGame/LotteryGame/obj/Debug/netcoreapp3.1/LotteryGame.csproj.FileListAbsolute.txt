@@ -1,0 +1,13 @@
+C:\Users\Juba\Desktop\LotteryGame\LotteryGame\bin\Debug\netcoreapp3.1\LotteryGame.exe
+C:\Users\Juba\Desktop\LotteryGame\LotteryGame\bin\Debug\netcoreapp3.1\LotteryGame.deps.json
+C:\Users\Juba\Desktop\LotteryGame\LotteryGame\bin\Debug\netcoreapp3.1\LotteryGame.runtimeconfig.json
+C:\Users\Juba\Desktop\LotteryGame\LotteryGame\bin\Debug\netcoreapp3.1\LotteryGame.runtimeconfig.dev.json
+C:\Users\Juba\Desktop\LotteryGame\LotteryGame\bin\Debug\netcoreapp3.1\LotteryGame.dll
+C:\Users\Juba\Desktop\LotteryGame\LotteryGame\bin\Debug\netcoreapp3.1\LotteryGame.pdb
+C:\Users\Juba\Desktop\LotteryGame\LotteryGame\obj\Debug\netcoreapp3.1\LotteryGame.csprojAssemblyReference.cache
+C:\Users\Juba\Desktop\LotteryGame\LotteryGame\obj\Debug\netcoreapp3.1\LotteryGame.AssemblyInfoInputs.cache
+C:\Users\Juba\Desktop\LotteryGame\LotteryGame\obj\Debug\netcoreapp3.1\LotteryGame.AssemblyInfo.cs
+C:\Users\Juba\Desktop\LotteryGame\LotteryGame\obj\Debug\netcoreapp3.1\LotteryGame.csproj.CoreCompileInputs.cache
+C:\Users\Juba\Desktop\LotteryGame\LotteryGame\obj\Debug\netcoreapp3.1\LotteryGame.dll
+C:\Users\Juba\Desktop\LotteryGame\LotteryGame\obj\Debug\netcoreapp3.1\LotteryGame.pdb
+C:\Users\Juba\Desktop\LotteryGame\LotteryGame\obj\Debug\netcoreapp3.1\LotteryGame.genruntimeconfig.cache
