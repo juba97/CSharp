@@ -1,0 +1,13 @@
+C:\Users\Juba\Desktop\Elections\Elections\bin\Debug\netcoreapp3.1\Elections.exe
+C:\Users\Juba\Desktop\Elections\Elections\bin\Debug\netcoreapp3.1\Elections.deps.json
+C:\Users\Juba\Desktop\Elections\Elections\bin\Debug\netcoreapp3.1\Elections.runtimeconfig.json
+C:\Users\Juba\Desktop\Elections\Elections\bin\Debug\netcoreapp3.1\Elections.runtimeconfig.dev.json
+C:\Users\Juba\Desktop\Elections\Elections\bin\Debug\netcoreapp3.1\Elections.dll
+C:\Users\Juba\Desktop\Elections\Elections\bin\Debug\netcoreapp3.1\Elections.pdb
+C:\Users\Juba\Desktop\Elections\Elections\obj\Debug\netcoreapp3.1\Elections.csprojAssemblyReference.cache
+C:\Users\Juba\Desktop\Elections\Elections\obj\Debug\netcoreapp3.1\Elections.AssemblyInfoInputs.cache
+C:\Users\Juba\Desktop\Elections\Elections\obj\Debug\netcoreapp3.1\Elections.AssemblyInfo.cs
+C:\Users\Juba\Desktop\Elections\Elections\obj\Debug\netcoreapp3.1\Elections.csproj.CoreCompileInputs.cache
+C:\Users\Juba\Desktop\Elections\Elections\obj\Debug\netcoreapp3.1\Elections.dll
+C:\Users\Juba\Desktop\Elections\Elections\obj\Debug\netcoreapp3.1\Elections.pdb
+C:\Users\Juba\Desktop\Elections\Elections\obj\Debug\netcoreapp3.1\Elections.genruntimeconfig.cache
