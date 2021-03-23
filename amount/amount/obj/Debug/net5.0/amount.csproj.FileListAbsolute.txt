@@ -1,0 +1,16 @@
+C:\Users\jubik\OneDrive\Desktop\amount\amount\bin\Debug\net5.0\amount.exe
+C:\Users\jubik\OneDrive\Desktop\amount\amount\bin\Debug\net5.0\amount.deps.json
+C:\Users\jubik\OneDrive\Desktop\amount\amount\bin\Debug\net5.0\amount.runtimeconfig.json
+C:\Users\jubik\OneDrive\Desktop\amount\amount\bin\Debug\net5.0\amount.runtimeconfig.dev.json
+C:\Users\jubik\OneDrive\Desktop\amount\amount\bin\Debug\net5.0\amount.dll
+C:\Users\jubik\OneDrive\Desktop\amount\amount\bin\Debug\net5.0\ref\amount.dll
+C:\Users\jubik\OneDrive\Desktop\amount\amount\bin\Debug\net5.0\amount.pdb
+C:\Users\jubik\OneDrive\Desktop\amount\amount\obj\Debug\net5.0\amount.csprojAssemblyReference.cache
+C:\Users\jubik\OneDrive\Desktop\amount\amount\obj\Debug\net5.0\amount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jubik\OneDrive\Desktop\amount\amount\obj\Debug\net5.0\amount.AssemblyInfoInputs.cache
+C:\Users\jubik\OneDrive\Desktop\amount\amount\obj\Debug\net5.0\amount.AssemblyInfo.cs
+C:\Users\jubik\OneDrive\Desktop\amount\amount\obj\Debug\net5.0\amount.csproj.CoreCompileInputs.cache
+C:\Users\jubik\OneDrive\Desktop\amount\amount\obj\Debug\net5.0\amount.dll
+C:\Users\jubik\OneDrive\Desktop\amount\amount\obj\Debug\net5.0\ref\amount.dll
+C:\Users\jubik\OneDrive\Desktop\amount\amount\obj\Debug\net5.0\amount.pdb
+C:\Users\jubik\OneDrive\Desktop\amount\amount\obj\Debug\net5.0\amount.genruntimeconfig.cache
