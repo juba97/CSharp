@@ -1,7 +1,5 @@
 # Github Commands
 
-![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)
-
 FirstCommand:
 ```sh
 $ git add .
