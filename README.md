@@ -26,7 +26,7 @@ $ git pull origin master
 ```
 
 
-# Committing changes in git and pshing to a gitHub repository
+# Committing changes in git and pushing to a gitHub repository
 FirstCommand:
 ```sh
 $ ls
