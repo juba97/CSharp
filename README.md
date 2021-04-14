@@ -7,7 +7,7 @@ $ git add .
 
 SecondCommand:
 ```sh
-$ gitt commit -m "First Commit"
+$ git commit -m "First Commit"
 ```
 
 ThirdCommand:
