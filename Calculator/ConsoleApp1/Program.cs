@@ -1,62 +1,43 @@
 ﻿using System;
-
-namespace Calculatori
+class program
 {
-    class Program
+    static void Main()
     {
-        static void Main(string[] args)
+        try
         {
-            char symbol1 = 'y';
-            do
+            Console.Write("Enter the first digit -: ");
+            int first = int.Parse(Console.ReadLine());
+            Console.Write("Select the operator [+, -, *, /] -: ");
+            char symbol = char.Parse(Console.ReadLine());
+            Console.Write("Enter the second digit -: ");
+            int second = int.Parse(Console.ReadLine());
+            
+            
+            if (symbol == '+')
             {
-
-
-                Console.WriteLine("Enter First Number");
-                double Number = double.Parse(Console.ReadLine());
-                Console.WriteLine("Enter Second Number");
-                double Number2 = double.Parse(Console.ReadLine());
-                Console.WriteLine("Enter Symbol Operator");
-                char Symbol = char.Parse(Console.ReadLine());
-
-
-
-
-                if (Symbol == '+' || Symbol == '-' || Symbol == '*' || Symbol == '/' || Symbol == '%')
-                {
-
-                    if (Symbol == '+')
-                    {
-                        System.Console.WriteLine($"{Number} + {Number2} = {Number + Number2}");
-                    }
-                    if (Symbol == '-')
-                    {
-                        System.Console.WriteLine($"{Number} - {Number2} = {Number - Number2}");
-                    }
-                    if (Symbol == '*')
-                    {
-                        System.Console.WriteLine($"{Number} * {Number2} = {Number * Number2}");
-                    }
-                    if (Symbol == '/')
-                    {
-                        System.Console.WriteLine($"{Number} / {Number2} = {Number / Number2}");
-                    }
-                    if (Symbol == '%')
-                    {
-                        System.Console.WriteLine($"{Number} % {Number2} = {Number % Number2}");
-                    }
-                }
-
-                else
-                {
-                    System.Console.WriteLine("Error");
-                }
-
-                Console.WriteLine("if you want repeat enter 'y'");
-                symbol1 = char.Parse(Console.ReadLine());
-            } while (symbol1 == 'y');
-
-
-
+                Console.Write($"Sum = {first + second}");
+            }
+            else if (symbol == '-')
+            {
+                Console.Write($"Sub = {first - second}");
+            }
+            else if (symbol == '*')
+            {
+                Console.Write($"Mult = {first * second}");
+            }
+            else if (symbol == '/')
+            {
+                Console.Write($"Div = {first / second}");
+            }
         }
-    }
+        catch (DivideByZeroException e)
+        {
+            Console.WriteLine(e.Message);
+        }
+        catch (Exception)
+        {
+            Console.WriteLine("Error");
+        }
+        
+    }     
 }
