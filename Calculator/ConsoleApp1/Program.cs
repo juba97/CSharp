@@ -37,7 +37,6 @@ class program
         catch (Exception)
         {
             Console.WriteLine("Error");
-        }
-        
+        }     
     }     
 }
