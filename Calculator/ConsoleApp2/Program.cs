@@ -48,8 +48,7 @@ namespace ConsoleApp2
             catch (Exception)
             {
                 Console.WriteLine("Error");
-            }
-            
+            }  
         }
     }
 }
