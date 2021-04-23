@@ -60,7 +60,6 @@ namespace ConsoleApp117
                     minnumber = array[i];
                 }
             }
-
             return minnumber;
         }
     }
