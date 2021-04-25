@@ -8,11 +8,11 @@ namespace ConsoleApp2
         {
             try
             {
-                Console.Write("Enter the first digit -: ");
+                Console.Write("Enter the first digit : ");
                 int first = int.Parse(Console.ReadLine());
-                Console.Write("Select the operator [+, -, *, /] -: ");
+                Console.Write("Select the operator [+, -, *, /] : ");
                 char symbol = char.Parse(Console.ReadLine());
-                Console.Write("Enter the second digit -: ");
+                Console.Write("Enter the second digit : ");
                 int second = int.Parse(Console.ReadLine());
 
 
