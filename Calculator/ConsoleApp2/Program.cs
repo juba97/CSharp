@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace ConsoleApp2
 {
@@ -19,36 +19,48 @@ namespace ConsoleApp2
                 switch (symbol)
                 {
                     case '+':
-                        Console.WriteLine($"Result : {first + second}");
+                        Console.WriteLine();
+                        Console.WriteLine($"Sum : {first + second}");
                         break;
                 }
                 switch (symbol)
                 {
                     case '-':
-                        Console.WriteLine($"Result : {first - second}");
+                        Console.WriteLine();
+                        Console.WriteLine($"Sub : {first - second}");
                         break;
                 }
                 switch (symbol)
                 {
                     case '*':
-                        Console.WriteLine($"Result : {first * second}");
+                        Console.WriteLine();
+                        Console.WriteLine($"Mult : {first * second}");
                         break;
                 }
                 switch (symbol)
                 {
                     case '/':
-                        Console.WriteLine($"Result : {first / second}");
+                        Console.WriteLine();
+                        Console.WriteLine($"Div : {first / second}");
+                        break;
+                }
+                switch (symbol)
+                {
+                    case '%':
+                        Console.WriteLine();
+                        Console.WriteLine($"Rem : {first % second}");
                         break;
                 }
             }
             catch (DivideByZeroException e)
-            {
+            {            
                 Console.WriteLine(e.Message);
             }
             catch (Exception)
             {
-                Console.WriteLine("Error");
-            }  
+                Console.WriteLine();
+                Console.WriteLine("Unknown number or operator");
+            }
         }
     }
 }
