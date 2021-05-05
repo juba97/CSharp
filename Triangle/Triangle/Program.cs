@@ -94,7 +94,6 @@ namespace ConsoleApp1
                 for (k = 1; k <= j; k++)
                 {
                     Console.Write("*");
-
                 }
                 Console.WriteLine("");
             }
