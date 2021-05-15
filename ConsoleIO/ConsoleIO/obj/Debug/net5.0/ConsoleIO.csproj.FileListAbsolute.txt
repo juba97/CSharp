@@ -1,0 +1,16 @@
+C:\Users\jubik\source\repos\ConsoleIO\ConsoleIO\bin\Debug\net5.0\ConsoleIO.exe
+C:\Users\jubik\source\repos\ConsoleIO\ConsoleIO\bin\Debug\net5.0\ConsoleIO.deps.json
+C:\Users\jubik\source\repos\ConsoleIO\ConsoleIO\bin\Debug\net5.0\ConsoleIO.runtimeconfig.json
+C:\Users\jubik\source\repos\ConsoleIO\ConsoleIO\bin\Debug\net5.0\ConsoleIO.runtimeconfig.dev.json
+C:\Users\jubik\source\repos\ConsoleIO\ConsoleIO\bin\Debug\net5.0\ConsoleIO.dll
+C:\Users\jubik\source\repos\ConsoleIO\ConsoleIO\bin\Debug\net5.0\ref\ConsoleIO.dll
+C:\Users\jubik\source\repos\ConsoleIO\ConsoleIO\bin\Debug\net5.0\ConsoleIO.pdb
+C:\Users\jubik\source\repos\ConsoleIO\ConsoleIO\obj\Debug\net5.0\ConsoleIO.csprojAssemblyReference.cache
+C:\Users\jubik\source\repos\ConsoleIO\ConsoleIO\obj\Debug\net5.0\ConsoleIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jubik\source\repos\ConsoleIO\ConsoleIO\obj\Debug\net5.0\ConsoleIO.AssemblyInfoInputs.cache
+C:\Users\jubik\source\repos\ConsoleIO\ConsoleIO\obj\Debug\net5.0\ConsoleIO.AssemblyInfo.cs
+C:\Users\jubik\source\repos\ConsoleIO\ConsoleIO\obj\Debug\net5.0\ConsoleIO.csproj.CoreCompileInputs.cache
+C:\Users\jubik\source\repos\ConsoleIO\ConsoleIO\obj\Debug\net5.0\ConsoleIO.dll
+C:\Users\jubik\source\repos\ConsoleIO\ConsoleIO\obj\Debug\net5.0\ref\ConsoleIO.dll
+C:\Users\jubik\source\repos\ConsoleIO\ConsoleIO\obj\Debug\net5.0\ConsoleIO.pdb
+C:\Users\jubik\source\repos\ConsoleIO\ConsoleIO\obj\Debug\net5.0\ConsoleIO.genruntimeconfig.cache
